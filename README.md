@@ -1,4 +1,4 @@
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 # Sales Insights Dashboard – Tableau
 
 ## Problem Statement
