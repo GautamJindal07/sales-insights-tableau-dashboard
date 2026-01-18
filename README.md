@@ -26,4 +26,3 @@ An interactive Sales Insights dashboard built in Tableau with a live MySQL conne
 
 ## Live Dashboard
 [View on Tableau Public](https://public.tableau.com/app/profile/gautam.jindal/viz/SalesInsightsVisualisationProject/Dashboard1#2)
-<img width="1915" height="858" alt="image" src="https://github.com/user-attachments/assets/6b3e2f88-d453-4f48-8522-0877269c0671" />
